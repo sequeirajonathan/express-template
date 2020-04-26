@@ -1,0 +1,4 @@
+{
+    "mongoURI": "<CONNECTION_STRING>",
+    "jwtSecret": "<SECRET>"
+}
